@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cat Website</title>
+</head>
+<body style="background:purple;">
+    <h1 style="color:green;text-align:left;">Cat Website</h1>
+    <p style="color:black;">This is a AI system. made by Antonio Green</p>
+    <article>
+        <h3>The OutPut Tag</h3>
+        <ui>
+            <li>Using for the result of a calculating</li>
+            <li>Can note what form flieds it releate</li>
+            <li>Ai power</li>
+            <li>Ai system is more power to our coustomers </li>
+            <li>Ai Power system</li>
+            <li>AI Is a power system for our projects, Or something like that.</li>
+            <li>Ai system will be power by cats!!!</li>
+        </ui>
+    </article>
+    <a href="https://en.wikipedia.org/wiki/Cat">Learn About Cats!</a>  
+    <div class="cats"></div>  
+    <strong><em>This is really important for cats!</em></strong>
+    <p>Copyright &copy; 2022 Tony Inc</p>
+</body>
+</html>
